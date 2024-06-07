@@ -1,0 +1,14 @@
+<html>
+
+ <head>
+   <title> Utilizando Tag's de formatação </title>
+  </head>
+ 
+  <body>
+     Exemplos: <p>
+      <FONT FACE= "TIMES"> Este é um txt format Times new Roman</FONT>
+   
+ </p>
+    </body>
+
+</html>
