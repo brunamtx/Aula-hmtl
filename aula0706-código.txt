@@ -7,6 +7,8 @@
   <body>
      Exemplos: <p>
       <FONT FACE= "TIMES"> Este é um txt format Times new Roman</FONT>
+
+      <FONT COLOR = "GREY"
    
  </p>
     </body>
